@@ -1,0 +1,13 @@
+Glitch JPEG images using javascript in the browser - no backend.
+
+Implemented:
+
+* Parse JPEG images, split into interesting areas
+* Apply javascript functions to interesting areas of the jpeg image, allowing the ability to corrupt various areas in subtle ways
+* Visualise the output in a canvas element
+
+uses
+
+* Canvas
+* ArrayBuffers
+
